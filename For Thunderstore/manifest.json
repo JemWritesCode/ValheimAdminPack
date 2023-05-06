@@ -1,13 +1,12 @@
 {
     "name": "TheAdminPack",
-    "version_number": "0.0.25",
+    "version_number": "0.0.26",
     "website_url": "https://github.com/JemCopeCodes",
     "description": "A list of mods generally useful for dedicated server admins.",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.1100",
         "TJzilla-BepInEx_ConfigurationManager-16.1.2",
         "LVH-IT-UseEquipmentInWater-0.2.2",
-        "Skrip-SkToolbox-1.10.4",
         "Cooleyy-EasySpawner-1.4.2",
         "Nexus-TerrainReset-0.5.1",
         "mtnewton-Gravekeeper-2.2.0",
