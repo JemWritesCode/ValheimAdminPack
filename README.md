@@ -1,1 +1,1 @@
-# ValheimAdminPack
+Files for [TheAdminPack](https://valheim.thunderstore.io/package/JemCopeCodes/TheAdminPack/) which I created for Valheim.
