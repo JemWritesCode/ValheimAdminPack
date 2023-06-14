@@ -7,7 +7,7 @@ This modpack includes a list of mods that are generally useful for admin work on
 ### Comfy Valheim Server 
 If you're from [Comfy Valheim](https://discord.gg/ameHJz5PFk) please first install the basic [Comfy Valheim Pack](https://valheim.thunderstore.io/package/ComfyMods/ComfyValheimPack/). Comfy also has some additional non-public mods and if you're staff that's meant to have those tools you will have to ask for them. This modpack is only for approved staff. 
 
-## ChangeLog
+## Github
 [This Modpack's Github](https://github.com/JemWritesCode/ValheimAdminPack)
 
-Version 0.0.26 -- Removed SKToolbox, afaik it's currently broken because it's out of date.
+

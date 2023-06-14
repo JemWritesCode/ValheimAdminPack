@@ -1,11 +1,14 @@
 {
     "name": "TheAdminPack",
-    "version_number": "0.0.26",
-    "website_url": "https://github.com/JemCopeCodes",
+    "version_number": "0.0.27",
+    "website_url": "https://github.com/JemWritesCode/ValheimAdminPack",
     "description": "A list of mods generally useful for dedicated server admins.",
     "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.1100",
-        "TJzilla-BepInEx_ConfigurationManager-16.1.2",
+        "denikson-BepInExPack_Valheim-5.4.2105",
+        "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0",
+        "JereKuusela-Infinity_Hammer-1.37.1",
+        "JereKuusela-Server_devcommands-1.52.0",
+        "RagnarokHCRP-MapTeleport-0.5.0",
         "LVH-IT-UseEquipmentInWater-0.2.2",
         "Cooleyy-EasySpawner-1.4.2",
         "Nexus-TerrainReset-0.5.1",
