@@ -1,6 +1,6 @@
 {
     "name": "TheAdminPack",
-    "version_number": "0.0.27",
+    "version_number": "0.0.28",
     "website_url": "https://github.com/JemWritesCode/ValheimAdminPack",
     "description": "A list of mods generally useful for dedicated server admins.",
     "dependencies": [
@@ -8,18 +8,14 @@
         "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0",
         "JereKuusela-Infinity_Hammer-1.37.1",
         "JereKuusela-Server_devcommands-1.52.0",
-        "RagnarokHCRP-MapTeleport-0.5.0",
         "LVH-IT-UseEquipmentInWater-0.2.2",
         "Cooleyy-EasySpawner-1.4.2",
-        "Nexus-TerrainReset-0.5.1",
         "mtnewton-Gravekeeper-2.2.0",
         "Fang86-MoreSlots-1.1.7",
         "AdvizeReupload-PlantEverything-1.6.0",
-        "xAfflict-NonrestrictedPortals-1.2.1",
         "bakaspaceman-No_Crafting_Station_Restrictions-1.0.0",
         "Menthus-Always_Usable_Crafting_Stations-1.1.0",
         "LottieVixen-Build_In_Dungeons-1.0.0",
-        "nearbear-WishboneSlot-1.0.3",
         "ValheimModding-Jotunn-2.3.4"
     ]
 }
